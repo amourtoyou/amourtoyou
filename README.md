@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourname&theme=react-dark) 
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=amourtoyou&theme=react-dark) 
 
-![Snake Animation](https://github.com/yourname/yourname/blob/output/github-contribution-grid-snake.svg) 
+![Snake Animation](https://github.com/amourtoyou/amourtoyou/blob/output/github-contribution-grid-snake.svg) 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
