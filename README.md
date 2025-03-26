@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourname&theme=react-dark) 
+
+![Snake Animation](https://github.com/yourname/yourname/blob/output/github-contribution-grid-snake.svg) 
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
