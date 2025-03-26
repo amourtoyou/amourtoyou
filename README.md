@@ -2,6 +2,10 @@
 
 **amourtoyou/amourtoyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div align="center">
+  <img src="头像链接" width="200px">
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
