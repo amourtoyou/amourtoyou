@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amourtoyou&layout=compact) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
